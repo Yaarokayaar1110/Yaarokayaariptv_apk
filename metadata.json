@@ -1,0 +1,6 @@
+{
+  "name": "Yaarokayaar IPTV",
+  "description": "Fast, low-latency IPTV player featuring pre-defined channels, curated catalogues, and favorites dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

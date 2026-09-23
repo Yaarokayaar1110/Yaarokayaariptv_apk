@@ -1,0 +1,61 @@
+#EXTM3U 
+#EXTINF:-1 tvg-id="SONY HD" tvg-logo="https://i.ibb.co/tptfLr0L/unnamed.png"  group-title="┃SONYLIV OTT ▶ Premium┃",SONY TV ᴴᴰ ▶
+https://cloudplay-sonyliv.pages.dev/sethd.m3u8
+
+#EXTINF:-1 tvg-id="SONY HD" tvg-logo="https://i.ibb.co/tptfLr0L/unnamed.png"  group-title="┃SONYLIV OTT ▶ Premium┃",SONY TV ᴜʟᴛʀa ▶
+#EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 16) ExoPlayerLib/2.14.1
+https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009246|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000009246
+
+#EXTINF: -1 tvg-id="471" tvg-logo="https://i.ibb.co/tptfLr0L/unnamed.png" group-title="┃SONYLIV OTT ▶ Premium┃",SONY SAB ᴴᴰ ▶
+https://cloudplay-sonyliv.pages.dev/sabhd.m3u8
+
+#EXTINF: -1 tvg-id="471" tvg-logo="https://i.ibb.co/tptfLr0L/unnamed.png" group-title="┃SONYLIV OTT ▶ Premium┃",SONY SAB ᴜʟᴛʀa ▶
+#EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 16) ExoPlayerLib/2.14.1
+https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009248|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000009248
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tptfLr0L/unnamed.png" tvg-chno="8" group-title="┃SONYLIV OTT ▶ Premium┃",Sony pal ᴴᴰ ▶
+https://cloudplay-sonyliv.pages.dev/pal.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tptfLr0L/unnamed.png" tvg-chno="8" group-title="┃SONYLIV OTT ▶ Premium┃",Sony pal ᴜʟᴛʀa ▶
+#EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 16) ExoPlayerLib/2.14.1
+https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009273|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000009273
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tptfLr0L/unnamed.png" tvg-chno="22" group-title="┃SONYLIV OTT ▶ Premium┃",Sony WAH ᴴᴰ ▶
+https://cloudplay-sonyliv.pages.dev/wah.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tptfLr0L/unnamed.png" tvg-chno="22" group-title="┃SONYLIV OTT ▶ Premium┃",Sony WAH ᴜʟᴛʀa ▶
+#EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 16) ExoPlayerLib/2.14.1
+https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009253|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000009253
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tptfLr0L/unnamed.png" tvg-chno="22" group-title="┃SONYLIV OTT ▶ Premium┃",Sony MAX ▶
+https://cloudplay-sonyliv.pages.dev/max.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tptfLr0L/unnamed.png" tvg-chno="22" group-title="┃SONYLIV OTT ▶ Premium┃",Sony MAX ᴜʟᴛʀa ▶
+#EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 16) ExoPlayerLib/2.14.1
+https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009249|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000009249
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tptfLr0L/unnamed.png" tvg-chno="22" group-title="┃SONYLIV OTT ▶ Premium┃",Sony MAX  ᴴᴰ ▶
+https://cloudplay-sonyliv.pages.dev/maxhd.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tptfLr0L/unnamed.png" tvg-chno="22" group-title="┃SONYLIV OTT ▶ Premium┃",Sony MAX  ᴜʟᴛʀa ▶
+#EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 16) ExoPlayerLib/2.14.1
+https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009247|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000009247
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tptfLr0L/unnamed.png" tvg-chno="22" group-title="┃SONYLIV OTT ▶ Premium┃",Sony MAX 2 ᴴᴰ ▶
+https://cloudplay-sonyliv.pages.dev/max2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tptfLr0L/unnamed.png" tvg-chno="22" group-title="┃SONYLIV OTT ▶ Premium┃",Sony MAX 2 ᴜʟᴛʀa ▶
+#EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 16) ExoPlayerLib/2.14.1
+https://sony.dongobd247.workers.dev/stream.m3u8?id=1000044878|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000044878
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tptfLr0L/unnamed.png" tvg-chno="22" group-title="┃SONYLIV OTT ▶ Premium┃",Sony Max 1 ᴴᴰ
+http://tv.cloudcdn.me:80/live.ts?channelId=132468&uid=15301&deviceMac=00:1A:79:31:34:0E
+
+
+#EXTINF:-1 tvg-id="sony-sab" tvg-logo="https://i.ibb.co/9H8mBLSg/images.jpg" group-title="┃SONYLIV┃",SONY SAB SD OFFICIAL INDIA 
+#EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
+https://fifa.assadikb.workers.dev/?id=sonysab_hd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5xxbSfyp/images.jpg" group-title="┃OTT SPECIAL┃",Doraemon OFFICIAL SpeciaL
+http://main.light-ott.net/play/live.php?mac=00:1A:79:C8:62:98&stream=734308&extension=ts
